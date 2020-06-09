@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.home{
+    border-bottom:6px solid white;
+    background-color:grey;
+    padding-bottom:4px;
+    margin-top:0;
+}
+
+.fa-home{
+
+    color:	#FFDF00;
+    position: relative;
+    left:10%;
+    padding-top:15px;
+    padding-bottom:10px;
+    margin:0;
+}
+
+.fa-home:hover{
+    cursor: pointer;
+    transform:scale(1.1);
+    color:	#FFDF00;
+    
+    }
+
+.gallery{
+    margin:10px;
+    padding:2%;
+    text-align:center;
+    background-color:#38383a;
+    
+}
+
+.gallery img{
+    transition: 1s;
+    
+    width:200px;
+    border:3px solid white;
+    margin:15px;
+    
+
+}
+
+.gallery img:hover{
+    
+    transform:scale(1.1);
+}
+  
+  
+
+
+
