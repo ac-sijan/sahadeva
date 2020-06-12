@@ -24,8 +24,19 @@ a:hover {
 
 .pad {
   padding-top: 60px;
+  margin-top:3rem;
 }
 
+  #home img{
+    border:white;
+    border-radius:50%;
+    padding:5px;
+    z-index:4;
+    position:absolute;
+    left:75px;
+    
+  
+  }
 .Costom_nav {
   font-size: 20px;
   color: #000000ce !important;
@@ -55,7 +66,9 @@ a:hover {
   line-height: 2;
   font-stretch: semi-expanded;
 }
-
+#start{
+  background-image:url(img/wave.svg);
+}
 .edu_sub {
   font-size: 2 !important;
   font-weight: bold;
